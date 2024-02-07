@@ -1,0 +1,13 @@
+{
+  "name": "zenn-docs",
+  "version": "1.0.0",
+  "engines": {
+    "node": "18.x"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.153"
+  },
+  "packageManager": "yarn@4.1.0"
+}
